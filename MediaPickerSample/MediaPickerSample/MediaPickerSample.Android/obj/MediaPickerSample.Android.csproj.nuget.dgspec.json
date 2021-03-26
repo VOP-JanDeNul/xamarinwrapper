@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Admin\\source\\repos\\Tutorials\\MediaPickerSample\\MediaPickerSample\\MediaPickerSample.Android\\MediaPickerSample.Android.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Admin\\source\\repos\\Tutorials\\MediaPickerSample\\MediaPickerSample\\MediaPickerSample.Android\\MediaPickerSample.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Tutorials\\MediaPickerSample\\MediaPickerSample\\MediaPickerSample.Android\\MediaPickerSample.Android.csproj",
+        "projectName": "MediaPickerSample.Android",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\Tutorials\\MediaPickerSample\\MediaPickerSample\\MediaPickerSample.Android\\MediaPickerSample.Android.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\Tutorials\\MediaPickerSample\\MediaPickerSample\\MediaPickerSample.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid10.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid10.0": {
+            "projectReferences": {
+              "C:\\Users\\Admin\\source\\repos\\Tutorials\\MediaPickerSample\\MediaPickerSample\\MediaPickerSample\\MediaPickerSample.csproj": {
+                "projectPath": "C:\\Users\\Admin\\source\\repos\\Tutorials\\MediaPickerSample\\MediaPickerSample\\MediaPickerSample\\MediaPickerSample.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid10.0": {
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.5.1.4349, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            },
+            "Xamarin.Tesseract": {
+              "target": "Package",
+              "version": "[0.3.4, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\Admin\\source\\repos\\Tutorials\\MediaPickerSample\\MediaPickerSample\\MediaPickerSample\\MediaPickerSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Tutorials\\MediaPickerSample\\MediaPickerSample\\MediaPickerSample\\MediaPickerSample.csproj",
+        "projectName": "MediaPickerSample",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\Tutorials\\MediaPickerSample\\MediaPickerSample\\MediaPickerSample\\MediaPickerSample.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\Tutorials\\MediaPickerSample\\MediaPickerSample\\MediaPickerSample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.5.1.4349, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            },
+            "Xamarin.Tesseract": {
+              "target": "Package",
+              "version": "[0.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
