@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Tutorials\MediaPickerSample\MediaPickerSample\MediaPickerSample\bin\Debug\netstandard2.0\MediaPickerSample.deps.json
+C:\Users\Admin\source\repos\Tutorials\MediaPickerSample\MediaPickerSample\MediaPickerSample\bin\Debug\netstandard2.0\MediaPickerSample.dll
+C:\Users\Admin\source\repos\Tutorials\MediaPickerSample\MediaPickerSample\MediaPickerSample\bin\Debug\netstandard2.0\ref\MediaPickerSample.dll
+C:\Users\Admin\source\repos\Tutorials\MediaPickerSample\MediaPickerSample\MediaPickerSample\bin\Debug\netstandard2.0\MediaPickerSample.pdb
+C:\Users\Admin\source\repos\Tutorials\MediaPickerSample\MediaPickerSample\MediaPickerSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\source\repos\Tutorials\MediaPickerSample\MediaPickerSample\MediaPickerSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\source\repos\Tutorials\MediaPickerSample\MediaPickerSample\MediaPickerSample\obj\Debug\netstandard2.0\MediaPickerSample.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Tutorials\MediaPickerSample\MediaPickerSample\MediaPickerSample\obj\Debug\netstandard2.0\MediaPickerSample.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Tutorials\MediaPickerSample\MediaPickerSample\MediaPickerSample\obj\Debug\netstandard2.0\MediaPickerSample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tutorials\MediaPickerSample\MediaPickerSample\MediaPickerSample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\source\repos\Tutorials\MediaPickerSample\MediaPickerSample\MediaPickerSample\obj\Debug\netstandard2.0\MediaPickerSample.dll
+C:\Users\Admin\source\repos\Tutorials\MediaPickerSample\MediaPickerSample\MediaPickerSample\obj\Debug\netstandard2.0\ref\MediaPickerSample.dll
+C:\Users\Admin\source\repos\Tutorials\MediaPickerSample\MediaPickerSample\MediaPickerSample\obj\Debug\netstandard2.0\MediaPickerSample.pdb
+C:\Users\Admin\source\repos\Tutorials\MediaPickerSample\MediaPickerSample\MediaPickerSample\obj\Debug\netstandard2.0\MediaPickerSample.csprojAssemblyReference.cache
